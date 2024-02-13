@@ -1,0 +1,6 @@
+timeout 270 'light -U 5 -O' resume 'light -A 5' 
+timeout 280 'hyprctl dispatch dpms off & light -s sysfs/leds/kbd_backlight -S 0 & dunstctl set-paused true' resume 'hyprctl dispatch dpms on & light -s sysfs/leds/kbd_backlight -I & dunstctl set-paused false'
+timeout 290 'swaylock'
+timeout 300 'systemctl suspend' 
+before-sleep 'swaylock'  
+
