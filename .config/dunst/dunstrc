@@ -1,0 +1,39 @@
+# documentation can be found at https://dunst-project.org/documentation/#RULES
+
+[global]
+frame_color = "#89B4FA"
+dmenu = "/usr/bin/rofi -dmenu"
+corner_radius = 10
+font = "ComicCode Nerd Font 12"
+show_indicators = false
+stack_duplicates = false 
+notification_limit = 5
+gap_size = 5
+default_icon = "~/.config/dunst/icons/default.svg"
+# separator_height = 3
+# separator_color= frame
+frame_width = 3
+mouse_left_click = do_action
+mouse_right_click = close_current
+follow=keyboard
+progress_bar_corner_radius = 5
+
+# for round corners set icon_corner to 1/2 min icon_size never higher than this
+icon_corner_radius = 25 
+max_icon_size = 50 
+min_icon_size = 50 
+#
+# icon path can be a COLON : separated list if multiple paths are needed
+icon_path = ~/.config/dunst/icons # this will be replaced by enable_recursive_icon_lookup
+[urgency_low]
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+
+[urgency_normal]
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+
+[urgency_critical]
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+frame_color = "#FA9387"
