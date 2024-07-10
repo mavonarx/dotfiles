@@ -1,3 +1,7 @@
-2024/07/10-06:07:10.697 c08 Reusing MANIFEST /home/maettu/.config/chromium/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/07/10-06:07:10.698 c08 Recovering log #3
-2024/07/10-06:07:10.699 c08 Reusing old log /home/maettu/.config/chromium/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/000003.log 
+2024/07/10-07:32:56.402 c10 Reusing MANIFEST /home/maettu/.config/chromium/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/07/10-07:32:56.402 c10 Recovering log #3
+2024/07/10-07:32:56.403 c10 Reusing old log /home/maettu/.config/chromium/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/000003.log 
+2024/07/10-07:33:11.278 c05 Level-0 table #5: started
+2024/07/10-07:33:11.280 c05 Level-0 table #5: 91672 bytes OK
+2024/07/10-07:33:11.280 c05 Delete type=0 #3
+2024/07/10-07:33:11.280 c05 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
