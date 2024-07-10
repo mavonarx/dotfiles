@@ -1,0 +1,33 @@
+2024/07/10-05:58:26.114 4 Reusing MANIFEST /home/maettu/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/07/10-05:58:26.117 4 Recovering log #42
+2024/07/10-05:58:26.118 4 Reusing old log /home/maettu/.config/chromium/Default/Local Storage/leveldb/000042.log 
+2024/07/10-06:07:08.149 6 Level-0 table #47: started
+2024/07/10-06:07:08.153 6 Level-0 table #47: 26989 bytes OK
+2024/07/10-06:07:08.156 6 Delete type=0 #42
+2024/07/10-06:07:15.602 6 Level-0 table #49: started
+2024/07/10-06:07:15.606 6 Level-0 table #49: 81793 bytes OK
+2024/07/10-06:07:15.609 6 Delete type=0 #46
+2024/07/10-06:08:10.390 6 Level-0 table #51: started
+2024/07/10-06:08:10.398 6 Level-0 table #51: 82058 bytes OK
+2024/07/10-06:08:10.402 6 Delete type=0 #48
+2024/07/10-06:10:03.804 4 Level-0 table #53: started
+2024/07/10-06:10:03.808 4 Level-0 table #53: 58343 bytes OK
+2024/07/10-06:10:03.810 4 Delete type=0 #50
+2024/07/10-06:10:03.811 6 Compacting 4@0 + 1@1 files
+2024/07/10-06:10:03.825 6 Generated table #54@0: 169 keys, 292445 bytes
+2024/07/10-06:10:03.826 6 Compacted 4@0 + 1@1 files => 292445 bytes
+2024/07/10-06:10:03.827 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/10-06:10:03.827 6 Delete type=2 #44
+2024/07/10-06:10:03.828 6 Delete type=2 #47
+2024/07/10-06:10:03.828 6 Delete type=2 #49
+2024/07/10-06:10:03.828 6 Delete type=2 #51
+2024/07/10-06:10:03.828 6 Delete type=2 #53
+2024/07/10-06:11:19.703 4 Level-0 table #56: started
+2024/07/10-06:11:19.710 4 Level-0 table #56: 77472 bytes OK
+2024/07/10-06:11:19.712 4 Delete type=0 #52
+2024/07/10-06:16:51.694 6 Level-0 table #58: started
+2024/07/10-06:16:51.699 6 Level-0 table #58: 21532 bytes OK
+2024/07/10-06:16:51.700 6 Delete type=0 #55
+2024/07/10-06:16:52.770 6 Level-0 table #60: started
+2024/07/10-06:16:52.775 6 Level-0 table #60: 117696 bytes OK
+2024/07/10-06:16:52.777 6 Delete type=0 #57
